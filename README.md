@@ -27,7 +27,8 @@ This project focuses on integrating information from two distinct data modalitie
 - **Performance**:
   - Initial MSE reduced significantly over epochs, indicating effective learning.
   - Evaluated using modality1_test.csv as ground truth.
-#### Technologies Used
+  
+### Technologies Used
 - **Python**: For data preprocessing and model implementation.
 - **PyTorch**: For building and training the neural network.
 - **Pandas**: For data manipulation and loading.
